@@ -44,7 +44,7 @@ I'm Anvesh Yadav, a budding full stack web developer with a keen interest in blo
 
 ### 💬 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/anveshyadav)
+- [LinkedIn]([www.linkedin.com/in/anveshyadav](https://www.linkedin.com/in/anveshyadav/))
 - [Twitter](https://x.com/AnveshYadav2909)
 - [Email](mailto:anveshyadavmokam@gmail.com)
 
