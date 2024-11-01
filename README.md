@@ -1,7 +1,3 @@
-Here’s an updated and refined version of your GitHub README that gives it a more professional and polished look:
-
----
-
 # 💫 Welcome to My GitHub!
 
 ### 👋 Hi, I'm **Anvesh Yadav!**
