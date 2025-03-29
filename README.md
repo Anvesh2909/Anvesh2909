@@ -17,14 +17,14 @@ Here are some of the exciting projects I’ve worked on:
 - **[Lurnex LMS](https://github.com/Lurnex)** *(Ongoing)*:  
   Building a next-gen LMS platform that integrates the MERN stack with Java for a hybrid, scalable architecture.  
 
-- **RecipeAdda**:  
-  A dynamic recipe app with advanced search functionality, user reviews, and detailed recipe views. Built with React, Tailwind CSS, and Node.js.  
-
-- **Movie Search App**:  
-  A responsive movie search app that integrates API calls using Axios, featuring state management and seamless UI interactions.  
-
 - **Prescripto**:  
   A prescription management system designed for healthcare use cases, with a focus on data security and user experience.  
+
+- **Vyuha LMS** *(Ongoing)*:  
+  Developing an enterprise-level LMS for a subject called *Social Immensive Learning*, with modular backend architecture (MERN + Java). Includes authentication using **university IDs**, event participation tracking, and point-based grading.  
+
+- **Fynx**:  
+  Landing page for a marketing startup connecting small-scale businesses with micro-influencers. Built using **Next.js**, **Tailwind CSS**, and **Supabase** for authentication and database.  
 
 ---
 
